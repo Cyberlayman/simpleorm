@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="sorm1.0:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="root">
+      <element id="archive" name="sorm1.0.jar">
+        <element id="module-output" name="sorm1.0" />
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-8.0.15" />
+    </root>
+  </artifact>
+</component>
